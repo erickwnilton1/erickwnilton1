@@ -1,8 +1,8 @@
-### Olá, sou @erickwnilton
+### Olá, sou Erick Nilton 👊
 
 #### Sou Engenheiro de software:
 
-&ndash; Frontend: **React.js**, **Next.js**, **Typescript**, **Prisma**, **ShadCN**
-&ndash; Backend: **Node.js**, **Express**, **Typescript**, **Jest**, **SQL**, **PostgreSQL**
-&ndash; Empresa: **Nuxt**  
-&ndash; Formação: **Ciência da computação**
+- **Frontend:** React.js, Next.js, Typescript, Prisma, ShadCN
+- **Backend:** Node.js, Express, Typescript, Jest, JWT, SQL, PostgreSQL  
+- **Empresa:** Nuxt
+- **Formação:** Ciência da computação
