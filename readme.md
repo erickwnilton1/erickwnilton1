@@ -2,8 +2,8 @@
 
 I build reliable, high-volume, end-to-end systems — from resilient back-ends to clean, pragmatic front-ends. I have experience with high-volume systems in the public service about traffic industries.
 
-* 🧑‍🎓 Software Engineer
-* 🧰 Focus: Web Applications development, Node.js orchestration, async workflows, data modeling.
+🧑‍🎓 Software Engineer <br />
+🧰 Focus: Web Applications development, Node.js orchestration, async workflows, data modeling.
 
 
 ### Tech Stack
