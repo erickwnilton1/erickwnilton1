@@ -1,4 +1,4 @@
-## I´m Erick Nilton 👊
+## I´m Erick Nilton 
 
 I build reliable, high-volume, end-to-end systems — from resilient back-ends to clean, pragmatic front-ends. I have experience with high-volume systems in the public service about traffic industries.
 
@@ -11,10 +11,12 @@ I build reliable, high-volume, end-to-end systems — from resilient back-ends t
 **Languages & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat\&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat\&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat\&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat\&logo=react)
-![React](https://img.shields.io/badge/-Next-333333?style=flat\&logo=next.js)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat\&logo=next.js)
+![Shadcn/ui](https://img.shields.io/badge/-shadcn-333333?style=flat\&logo=shadcnui)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat\&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat\&logo=CSS)
 
@@ -22,6 +24,7 @@ I build reliable, high-volume, end-to-end systems — from resilient back-ends t
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat\&logo=mongodb)
+[![Prisma](https://img.shields.io/badge/Prisma-333333?logo=prisma&logoColor=white)](#)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat\&logo=redis)
 
 **DevOps & Tools**
@@ -32,7 +35,6 @@ I build reliable, high-volume, end-to-end systems — from resilient back-ends t
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat\&logo=githubactions)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat\&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat\&logo=insomnia)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat\&logo=figma)
 
 ## Contact
 
